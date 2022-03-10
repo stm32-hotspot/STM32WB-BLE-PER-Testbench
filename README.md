@@ -32,7 +32,8 @@ This Hotspot FW package includes:
 ## User's Guide
 1. Install the .apk app on an Android Smarphone 
 2. Install the .hex firmware on both NUCLEO-WB55RG boards 
-![image](Utilities\Media\Images\Users_Guide\UG_image_0.jpg)
+
+![UG_IMAGE_0](Utilities/Media/Images/Users_Guide/UG_image_0.jpg)
 
 
 
