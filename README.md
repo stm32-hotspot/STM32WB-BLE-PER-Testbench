@@ -29,6 +29,13 @@ This Hotspot FW package includes:
 	
   * Android Smartphone app provided under "STM32WB-BLE-PER-Testbench\Utilities\Android_Software"
   
+## User's Guide
+1. Install the .apk app on an Android Smarphone 
+2. Install the .hex firmware on both NUCLEO-WB55RG boards 
+![image](Utilities\Media\Images\Users_Guide\UG_image_0.jpg)
+
+
+
 ## Troubleshooting
 
 **Caution** : Issues and the pull-requests are **not supported** to submit problems or suggestions related to the software delivered in this repository. The BLE_Basic_DataThroughput_Server example is being delivered as-is, and not necessarily supported by ST.
