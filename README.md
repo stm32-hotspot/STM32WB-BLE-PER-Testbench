@@ -110,6 +110,6 @@ Note: In the firmware, PB0 was configured in AF6 mode (EXT_PA_TX) to control CTX
 
 ## Troubleshooting
 
-**Caution** : Issues and the pull-requests are **not supported** to submit problems or suggestions related to the software delivered in this repository. The BLE_Basic_DataThroughput_Server example is being delivered as-is, and not necessarily supported by ST.
+**Caution** : Issues and the pull-requests are **not supported** to submit problems or suggestions related to the software delivered in this repository. The STM32WB-BLE-PER-Testbench example is being delivered as-is, and not necessarily supported by ST.
 
 **For any other question** related to the product, the hardware performance or characteristics, the tools, the environment, you can submit it to the **ST Community** on the STM32 MCUs related [page](https://community.st.com/s/topic/0TO0X000000BSqSWAW/stm32-mcus).
